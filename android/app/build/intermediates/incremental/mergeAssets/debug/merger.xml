@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Applications/XAMPP/xamppfiles/htdocs/sinergizar/android/app/src/main/assets" >
+            <file
+                name="Leo Arrow.ttf"
+                path="/Applications/XAMPP/xamppfiles/htdocs/sinergizar/android/app/src/main/assets/Leo Arrow.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Applications/XAMPP/xamppfiles/htdocs/sinergizar/android/app/src/debug/assets" />
+    </dataSet>
+
+</merger>
